@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "{F4B4D2DD-4683-CC7A-31FD-83AA083BD09F}",
+	"EngineAssociation": "{AF11B030-4858-E2CE-8E6E-F2A6B562AB21}",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
@@ -10,6 +10,10 @@
 			"TargetAllowList": [
 				"Editor"
 			]
+		},
+		{
+			"Name": "PoseSearch",
+			"Enabled": true
 		}
 	]
 }
